@@ -1,7 +1,9 @@
 <<<<<<< HEAD
-# graduation
+# Carbon footprint for universities
+
 
 A new Flutter project.
+this application provides calculating student's carbon footprint and the footprint for whole university, and some projects helps to reduce the footprint. 
 
 ## Getting Started
 
@@ -12,9 +14,7 @@ A few resources to get you started if this is your first Flutter project:
 - [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
 - [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+
 =======
-# CrabonFootPrintGraduation
+# CrabonFootPrint
 >>>>>>> c87889ad59d4f8c6f35e82789911cb1e006a7530
