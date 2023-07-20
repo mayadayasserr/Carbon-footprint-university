@@ -3,7 +3,7 @@
 
 
 A new Flutter project.
-### this application provides calculating student's carbon footprint and the footprint for whole university, and some projects helps to reduce the footprint. 
+### this application provides calculating student's carbon footprint and the footprint for whole university, and some projects helps to reduce the co2 emessions. 
 
 ## Getting Started
 
